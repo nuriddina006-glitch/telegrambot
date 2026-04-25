@@ -15,8 +15,8 @@ last_prompt = {}
 PHOTOS_FOLDER = "case_photos"
 os.makedirs(PHOTOS_FOLDER, exist_ok=True)
 
-TOKEN = "8766729408:AAHnaLRRjHdAS45rGqt9x7p1c40-SvHphls"
-ADMINS = [6001209350]
+TOKEN = "8566500725:AAHpcVOHRvUJUqyyuhUqCLxZanrsgTUJL48"
+ADMINS = [6001209350,1026816624]
 
 
 bot = telebot.TeleBot(TOKEN)
