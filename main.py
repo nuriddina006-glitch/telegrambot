@@ -15,7 +15,7 @@ last_prompt = {}
 PHOTOS_FOLDER = "case_photos"
 os.makedirs(PHOTOS_FOLDER, exist_ok=True)
 
-TOKEN = "8566500725:AAHpcVOHRvUJUqyyuhUqCLxZanrsgTUJL48"
+TOKEN = "8420720179:AAG8StLkQOTuae-kTOLfvYbmNgu0uqvGx-c"
 ADMINS = [6001209350,1026816624]
 
 
